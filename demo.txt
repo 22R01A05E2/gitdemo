@@ -1,2 +1,6 @@
 Hello Vardhan
+<<<<<<< HEAD
 b1
+=======
+vardhan
+>>>>>>> main
